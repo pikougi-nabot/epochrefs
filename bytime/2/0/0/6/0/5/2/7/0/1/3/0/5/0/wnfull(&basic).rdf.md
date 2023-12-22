@@ -50,6 +50,7 @@
 | 137 | 795591474 | owl:DatatypeProperty | wn20schema: |
 | 138 | 795591475 | owl:TransitiveProperty | wn20schema: |
 | 139 | 795591476 | owl:TransitiveProperty | wn20schema: |
-| 14 | 79559147 | owl:TransitiveProperty | wn20schema: |
-| 14 | 79559147 | owl:DatatypeProperty | wn20schema: |
-| 14 | 79559147 | owl:ObjectProperty | wn20schema: |
+| 140 | 795591477 | owl:TransitiveProperty | wn20schema: |
+| 141 | 795591478 | owl:DatatypeProperty | wn20schema: |
+| 142 | 795591479 | owl:ObjectProperty | wn20schema:causes |
+| 143 | 795591470 | owl:DatatypeProperty | wn20schema:senseLabel |
