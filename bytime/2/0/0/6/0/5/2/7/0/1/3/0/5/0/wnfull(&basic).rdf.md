@@ -10,24 +10,46 @@
 | 057 | 795591434 | owl:Class | wn20schema:AdverbSynset |
 | 058 | 795591435 | owl:Class | wn20schema:NounSynset |
 | 059 | 795591436 | owl:Class | wn20schema:WordSense |
-| 100 | 795591437 | owl:Class | |
-| 101 | 795591438 | | |
-| 102 | 795591439 | | |
-| 103 | 795591440 | | |
-| 104 | 795591441 | | |
-| 105 | 795591442 | | |
-| 106 | 795591443 | | |
-| 107 | 795591444 | | |
-| 108 | 795591445 | | |
-| 109 | 795591446 | | |
-| 11 | 79559144 | | |
-| 11 | 79559144 | | |
-| 11 | 79559144 | | |
-| 11 | 79559145 | | |
-| 11 | 79559145 | | |
-| 11 | 79559145 | | |
-| 11 | 79559145 | | |
-| 11 | 79559145 | | |
-| 11 | 79559145 | | |
-| 11 | 79559145 | | |
-| 12 | 79559145 | | |
+| 100 | 795591437 | owl:Class | wn20schema:AdverbWordSense |
+| 101 | 795591438 | owl:Class | wn20schema:NounWordSense |
+| 102 | 795591439 | owl:Class | wn20schema:VerbWordSense |
+| 103 | 795591440 | owl:Class | wn20schema:AdjectiveWordSense |
+| 104 | 795591441 | owl:Class | wn20schema:AdjectiveSatelliteWordSense |
+| 105 | 795591442 | owl:ObjectProperty | wn20schema:meronymOf |
+| 106 | 795591443 | owl:ObjectProperty | wn20schema:causedBy |
+| 107 | 795591444 | owl:SymmetricProperty | wn20schema:derivationallyRelated |
+| 108 | 795591445 | owl:ObjectProperty | wn20schema: |
+| 109 | 795591446 | owl:ObjectProperty | wn20schema: |
+| 110 | 795591447 | owl:ObjectProperty | wn20schema: |
+| 111 | 795591448 | owl:ObjectProperty | wn20schema: |
+| 112 | 795591449 | owl:ObjectProperty | wn20schema: |
+| 113 | 795591450 | owl:ObjectProperty | wn20schema: |
+| 114 | 795591451 | owl:ObjectProperty | wn20schema: |
+| 115 | 795591452 | owl:ObjectProperty | wn20schema: |
+| 116 | 795591453 | owl:DatatypeProperty | wn20schema: |
+| 117 | 795591454 | owl:SymmetricProperty | wn20schema: |
+| 118 | 795591455 | owl:TransitiveProperty | wn20schema: |
+| 119 | 795591456 | owl:ObjectProperty | wn20schema: |
+| 120 | 795591457 | owl:ObjectProperty | wn20schema: |
+| 121 | 795591458 | owl:ObjectProperty | wn20schema: |
+| 122 | 795591459 | owl:ObjectProperty | wn20schema: |
+| 123 | 795591460 | owl:ObjectProperty | wn20schema: |
+| 124 | 795591461 | owl:SymmetricProperty | wn20schema: |
+| 125 | 795591462 | owl:ObjectProperty | wn20schema: |
+| 126 | 795591463 | owl:ObjectProperty | wn20schema: |
+| 127 | 795591464 | owl:ObjectProperty | wn20schema: |
+| 128 | 795591465 | owl:ObjectProperty | wn20schema: |
+| 129 | 795591466 | owl:ObjectProperty | wn20schema: |
+| 130 | 795591467 | owl:ObjectProperty | wn20schema: |
+| 131 | 795591468 | owl:ObjectProperty | wn20schema: |
+| 132 | 795591469 | owl:ObjectProperty | wn20schema: |
+| 133 | 795591470 | owl:ObjectProperty | wn20schema: |
+| 134 | 795591471 | owl:ObjectProperty | wn20schema: |
+| 135 | 795591472 | owl:DatatypeProperty | wn20schema: |
+| 136 | 795591473 | owl:DatatypeProperty | wn20schema: |
+| 137 | 795591474 | owl:DatatypeProperty | wn20schema: |
+| 138 | 795591475 | owl:TransitiveProperty | wn20schema: |
+| 139 | 795591476 | owl:TransitiveProperty | wn20schema: |
+| 14 | 79559147 | owl:TransitiveProperty | wn20schema: |
+| 14 | 79559147 | owl:DatatypeProperty | wn20schema: |
+| 14 | 79559147 | owl:ObjectProperty | wn20schema: |
