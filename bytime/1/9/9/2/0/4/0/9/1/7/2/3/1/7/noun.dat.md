@@ -1,4 +1,6 @@
 - [WordNet Documentation](wordnet.princeton.edu/documentation)
-- WordNet (user) command(s)
-- WordNet file format(s)
-  - date from [oldest yet found WordNet database file](../../../../../../../../../../../../../../../urlkey/edu/princeton/wordnetcode/1.2/1.2.tar.gz/pc/dict/noun.dat)
+  - WordNet (user) command(s)
+  - WordNet file format(s)
+    - WordNet database files
+      - date from [oldest yet found WordNet database file](../../../../../../../../../../../../../../../urlkey/edu/princeton/wordnetcode/1.2/1.2.tar.gz/pc/dict/noun.dat)
+    - WordNet lexicographers' files
