@@ -1,2 +1,2 @@
 - [WordNet](wordnet.princeton.edu)
-  - date from [oldest yet found WordNet file](../../../../../../../../../test)
+  - date from [oldest yet found WordNet file](../../../../../../../../../../../../../../../test)
