@@ -1,3 +1,2 @@
 - [WordNet](wordnet.princeton.edu)
-  - date from [oldest yet found WordNet file](../../../../../../../../../../../../../../../urlkey/edu/princeton/wordnetcode/1.2/1.2.tar.gz/pc/src
-/old/find.h)
+  - date from [oldest yet found WordNet file](../../../../../../../../../../../../../../../urlkey/edu/princeton/wordnetcode/1.2/1.2.tar.gz/pc/src/old/find.h)
